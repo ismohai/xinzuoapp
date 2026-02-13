@@ -263,7 +263,7 @@ class _AiPanelState extends State<AiPanel> {
           children: [
             _buildQuickAction('续写', Iconsax.arrow_right),
             _buildQuickAction('扩写', Iconsax.maximize),
-            _buildQuickAction('缩写', Iconsax.minimize),
+            _buildQuickAction('缩写', Iconsax.minus),
             _buildQuickAction('润色', Iconsax.brush_1),
             _buildQuickAction('检查逻辑', Iconsax.shield_tick),
           ],
